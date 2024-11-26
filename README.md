@@ -11,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/vaiju-patil-585555310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vaiju-patil-585555310" height="30" width="40" /></a>
-<a href="https://instagram.com/vaijaaaaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vaijaaaaaa" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/www.linkedin.com/in/vaiju-patil-585555310](https://www.linkedin.com/in/vaiju-patil-585555310/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vaiju-patil-585555310" height="30" width="40" /></a>
+<a href="[https://instagram.com/vaijaaaaaa](https://www.instagram.com/vaijaaaaaaaa/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vaijaaaaaa" height="30" width="40" /></a>
 <a href="https://www.behance.net/vaijupatil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="vaijupatil" height="30" width="40" /></a>
 </p>
 
