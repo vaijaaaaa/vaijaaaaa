@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **fullstack development**
 
-- 📫 How to reach me **vaijuwalker111@gamil.com** 
+- 📫 How to reach me **vaijuwalker111@gamil.com**  
 
 - ⚡ Fun fact **I am pretty solid at designing things**
 
