@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaijnath Patil</h1>
-<h3 align="center">I'm a passionate Fullstack and UI/UX developer from India. I specialize in creating seamless and interactive user experiences, and I enjoy working with both frontend and backend technologies to build comprehensive applications.</h3>
+<h3 align="center">I'm a passionate Fullstack and UI/UX developer from India. I specialize in creating seamless and interactive user experiences, and I enjoy working with both frontend and backend technologies to build comprehensive applications. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaijaaaaa&label=Profile%20views&color=0e75b6&style=flat" alt="vaijaaaaa" /> </p>
 
